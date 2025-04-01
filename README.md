@@ -1,4 +1,5 @@
 # Joseph Nganga Nungari
+
 # 💫 About Me:
 🚀 About Me<br>Hi there! I'm Joseph Nganga, a passionate UI/UX Designer & Frontend Developer who loves crafting intuitive and visually stunning digital experiences. With 3+ years of experience, I specialize in designing user-friendly interfaces and translating them into clean, maintainable code.<br><br>💡 What I Do<br>🎨 UI/UX Design – Wireframing, Prototyping, User Research, and Accessibility<br><br>🖥️ Frontend Development – Expert in HTML, CSS, Tailwind CSS, and JavaScript<br><br>🔧 Building with Modern Tools – Figma, Adobe XD, Git, and Agile workflows<br><br>🌍 Open Source Contributor – Improving accessibility and design consistency<br><br>📈 Current Focus<br>I'm currently diving deeper into interactive UI development and improving web accessibility for all users. Always learning and open to new challenges!<br><br>📫 Let's Connect!<br>💼 Portfolio | 💬 LinkedIn | 🐦 Twitter
 
